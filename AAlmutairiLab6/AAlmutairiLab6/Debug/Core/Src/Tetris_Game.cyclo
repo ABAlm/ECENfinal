@@ -1,0 +1,9 @@
+../Core/Src/Tetris_Game.c:248:7:Tetris_GameLoop	3
+../Core/Src/Tetris_Game.c:286:7:TimePlaying	2
+../Core/Src/Tetris_Game.c:298:6:Tetris_Init	1
+../Core/Src/Tetris_Game.c:305:6:Tetris_GenerateTetromino	1
+../Core/Src/Tetris_Game.c:316:6:Tetris_PlaceTetromino	6
+../Core/Src/Tetris_Game.c:330:6:Tetris_CheckCollision	7
+../Core/Src/Tetris_Game.c:346:6:Tetris_RotateBlock	3
+../Core/Src/Tetris_Game.c:370:6:Tetris_MoveBlockDown	2
+../Core/Src/Tetris_Game.c:385:6:Tetris_PlayGame	1
